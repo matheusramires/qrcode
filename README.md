@@ -1,0 +1,2 @@
+# qrcode
+gera qrcode
